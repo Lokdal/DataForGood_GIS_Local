@@ -5,7 +5,7 @@ This project is a tutorial for my colleagues in Data For Good, Ottawa local. The
 
 ## Why would I want to download your project?
 
-To be able to create dynamic, colorful and insightful maps that are easy to share, like [this one](Median Income Map.html)
+To be able to create dynamic, colorful and insightful maps that are easy to share, like [this one](Median%20Income%20Map.html). Just download it and see for yourself!
 
 
 ## Getting the data
