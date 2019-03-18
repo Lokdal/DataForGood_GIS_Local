@@ -1,6 +1,11 @@
 # Data For Good : GIS tutorial using Python and folium 
 
-This project is a tutorial for my colleagues in Data For Good, Ottawa local. They have access to the shapefile containing the polygons of every Dissemination Areas (DAs) in the Ottawa region, as well as the 2016 Census Data for each of these DAs. Executing the script "Median Income Map.py" will generate the map "Median Income Map.html", which can be viewed from any browser. From there, they can customize the script to use the columns they want and get familiar with python, pandas and folium.
+This project is a tutorial for my colleagues in Data For Good, Ottawa local. They have access to the shapefile containing the polygons of every Dissemination Areas (DAs) in the Ottawa region, as well as the 2016 Census Data for each of these DAs. Executing the script "Median Income Map.py" will generate the map "Median Income Map.html", which can be viewed in any browser. From there, they can customize the script to use the columns they want and get familiar with python, pandas and folium.
+
+
+## Why would I want to download your project?
+
+To be able to create dynamic, colorful and insightful maps that are easy to share, like [this one](Median Income Map.html)
 
 
 ## Getting the data
